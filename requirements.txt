@@ -1,0 +1,30 @@
+# AWS
+boto3==1.34.0
+botocore==1.34.0
+
+# Agent frameworks
+langchain
+langchain-aws
+langchain-community
+langgraph
+crewai
+
+# Vector store
+faiss-cpu
+
+# API
+fastapi
+uvicorn
+pydantic
+
+# Evaluation
+ragas
+
+# Data
+pandas
+numpy
+pyarrow
+
+# Utils
+python-dotenv
+tqdm
